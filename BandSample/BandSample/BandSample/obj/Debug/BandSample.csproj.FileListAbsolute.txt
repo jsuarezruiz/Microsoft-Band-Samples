@@ -1,0 +1,33 @@
+C:\Proyectos\Real Madrid App\BandSample\BandSample\BandSample\bin\Debug\BandSample.dll
+C:\Proyectos\Real Madrid App\BandSample\BandSample\BandSample\bin\Debug\BandSample.pdb
+C:\Proyectos\Real Madrid App\BandSample\BandSample\BandSample\bin\Debug\Xamarin.Forms.Core.dll
+C:\Proyectos\Real Madrid App\BandSample\BandSample\BandSample\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Proyectos\Real Madrid App\BandSample\BandSample\BandSample\bin\Debug\Xamarin.Forms.Core.xml
+C:\Proyectos\Real Madrid App\BandSample\BandSample\BandSample\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Proyectos\Real Madrid App\BandSample\BandSample\BandSample\obj\Debug\BandSample.dll
+C:\Proyectos\Real Madrid App\BandSample\BandSample\BandSample\obj\Debug\BandSample.pdb
+C:\Proyectos\Real Madrid App\BandSample\BandSample\BandSample\obj\Debug\MainView.xaml.g.cs
+C:\Proyectos\Real Madrid App\BandSample\BandSample\BandSample\bin\Debug\Microsoft.Band.Portable.dll
+C:\Proyectos\Real Madrid App\BandSample\BandSample\BandSample\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Proyectos\Real Madrid App\BandSample\BandSample\BandSample\bin\Debug\Microsoft.Band.Portable.pdb
+C:\Proyectos\Real Madrid App\BandSample\BandSample\BandSample\bin\Debug\Microsoft.Band.Portable.xml
+C:\Proyectos\Real Madrid App\BandSample\BandSample\BandSample\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Proyectos\Real Madrid App\BandSample\BandSample\BandSample\obj\Debug\App.xaml.g.cs
+C:\Proyectos\Real Madrid App\BandSample\BandSample\BandSample\obj\Debug\BandSample.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Documents\GitHub\Microsoft-Band-Samples\BandSample\BandSample\BandSample\bin\Debug\BandSample.dll
+C:\Users\Javier\Documents\GitHub\Microsoft-Band-Samples\BandSample\BandSample\BandSample\bin\Debug\BandSample.pdb
+C:\Users\Javier\Documents\GitHub\Microsoft-Band-Samples\BandSample\BandSample\BandSample\bin\Debug\Microsoft.Band.Portable.dll
+C:\Users\Javier\Documents\GitHub\Microsoft-Band-Samples\BandSample\BandSample\BandSample\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Javier\Documents\GitHub\Microsoft-Band-Samples\BandSample\BandSample\BandSample\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Javier\Documents\GitHub\Microsoft-Band-Samples\BandSample\BandSample\BandSample\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Javier\Documents\GitHub\Microsoft-Band-Samples\BandSample\BandSample\BandSample\bin\Debug\Microsoft.Band.Portable.pdb
+C:\Users\Javier\Documents\GitHub\Microsoft-Band-Samples\BandSample\BandSample\BandSample\bin\Debug\Microsoft.Band.Portable.xml
+C:\Users\Javier\Documents\GitHub\Microsoft-Band-Samples\BandSample\BandSample\BandSample\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Javier\Documents\GitHub\Microsoft-Band-Samples\BandSample\BandSample\BandSample\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Javier\Documents\GitHub\Microsoft-Band-Samples\BandSample\BandSample\BandSample\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Javier\Documents\GitHub\Microsoft-Band-Samples\BandSample\BandSample\BandSample\obj\Debug\MainView.xaml.g.cs
+C:\Users\Javier\Documents\GitHub\Microsoft-Band-Samples\BandSample\BandSample\BandSample\obj\Debug\App.xaml.g.cs
+C:\Users\Javier\Documents\GitHub\Microsoft-Band-Samples\BandSample\BandSample\BandSample\obj\Debug\BandSample.dll
+C:\Users\Javier\Documents\GitHub\Microsoft-Band-Samples\BandSample\BandSample\BandSample\obj\Debug\BandSample.pdb
+C:\Users\Javier\Documents\GitHub\Microsoft-Band-Samples\BandSample\BandSample\BandSample\bin\Debug\BandSample.dll.CodeAnalysisLog.xml
+C:\Users\Javier\Documents\GitHub\Microsoft-Band-Samples\BandSample\BandSample\BandSample\bin\Debug\BandSample.dll.lastcodeanalysissucceeded
