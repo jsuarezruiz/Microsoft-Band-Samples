@@ -39,10 +39,24 @@
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service\Accelerometer\AccelerometerService.cs" />
+    <Compile Include="Service\Accelerometer\IAccelerometerService.cs" />
+    <Compile Include="Service\Calories\CaloriesService.cs" />
+    <Compile Include="Service\Calories\ICaloriesService.cs" />
     <Compile Include="Service\Connection\ConnectionService.cs" />
     <Compile Include="Service\Connection\IConnectionService.cs" />
+    <Compile Include="Service\Gyroscope\GyroscopeService.cs" />
+    <Compile Include="Service\Gyroscope\IGyroscopeService.cs" />
+    <Compile Include="Service\Heart Rate\HeartRateService.cs" />
+    <Compile Include="Service\Heart Rate\IHeartRateService.cs" />
     <Compile Include="Service\Navigation\INavigationService.cs" />
     <Compile Include="Service\Navigation\NavigationService.cs" />
+    <Compile Include="Service\Pedometer\IPedometerService.cs" />
+    <Compile Include="Service\Pedometer\PedometerService.cs" />
+    <Compile Include="Service\SkinTemperature\ISkinTemperatureService.cs" />
+    <Compile Include="Service\SkinTemperature\SkinTemperatureService.cs" />
+    <Compile Include="Service\Tile\ITileService.cs" />
+    <Compile Include="Service\Tile\TileService.cs" />
     <Compile Include="ViewModels\Base\DelegateCommand.cs" />
     <Compile Include="ViewModels\Base\DelegateCommandAsync.cs" />
     <Compile Include="ViewModels\Base\ViewModelBase.cs" />
@@ -86,14 +100,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Service\Accelerometer\" />
-    <Folder Include="Service\Calories\" />
-    <Folder Include="Service\Gyroscope\" />
-    <Folder Include="Service\Heart Rate\" />
     <Folder Include="Service\Message\" />
-    <Folder Include="Service\Pedometer\" />
-    <Folder Include="Service\SkinTemperature\" />
-    <Folder Include="Service\Tile\" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Views\MainView.xaml">
