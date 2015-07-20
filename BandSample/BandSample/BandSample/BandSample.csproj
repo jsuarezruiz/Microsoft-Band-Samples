@@ -87,7 +87,12 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Service\Accelerometer\" />
+    <Folder Include="Service\Calories\" />
+    <Folder Include="Service\Gyroscope\" />
+    <Folder Include="Service\Heart Rate\" />
     <Folder Include="Service\Message\" />
+    <Folder Include="Service\Pedometer\" />
+    <Folder Include="Service\SkinTemperature\" />
     <Folder Include="Service\Tile\" />
   </ItemGroup>
   <ItemGroup>

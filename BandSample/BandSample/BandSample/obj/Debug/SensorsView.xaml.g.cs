@@ -14,7 +14,7 @@ namespace BandSample.Views {
     using Xamarin.Forms.Xaml;
     
     
-    public partial class SensorsView : ContentPage {
+    public partial class SensorsView : TabbedPage {
         
         private void InitializeComponent() {
             this.LoadFromXaml(typeof(SensorsView));

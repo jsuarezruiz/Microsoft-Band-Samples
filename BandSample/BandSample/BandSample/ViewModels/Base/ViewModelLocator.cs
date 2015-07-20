@@ -3,7 +3,7 @@
     using Service.Connection;
     using Microsoft.Practices.Unity;
     using ViewModels;
-    using Xamarin.Forms;
+    using Services.Navigation;
 
     public class ViewModelLocator
     {
@@ -20,6 +20,7 @@
             _container.RegisterType<TilesViewModel>();
 
             // Services
+            _container.RegisterType<INavigationService, NavigationService>();
             _container.RegisterType<IConnectionService, ConnectionService>();
         }
 
